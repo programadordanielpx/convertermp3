@@ -27,3 +27,4 @@ Este aplicativo web permite que você divida e converta um arquivo de áudio par
 ### Observação
 - O processo de divisão e conversão pode levar algum tempo dependendo da duração do arquivo de áudio e da capacidade de processamento do seu dispositivo.
 - Outros programadores que encontrarem este projeto são bem-vindos para contribuir, inclusive convertendo-o para ser um executável desktop.
+- Muito bom esse plugin
